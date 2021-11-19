@@ -8,11 +8,8 @@ Charlas: https://www.ted.com/speakers/tim_berners_lee?language=es
 
 Prueba de colores web: https://material.io/resources/color/#!/?primary.color=164A90&secondary.color=AFB8FD&view.left=0&view.right=0
 
-Bootstrap 
-https://getbootstrap.com/docs/
+Bootstrap: https://getbootstrap.com/docs/
 
-Chequear y dar formato
-https://webformatter.com/
+Chequear y dar formato al texto: https://webformatter.com/
 
-Extra
-https://jsparagatos.com/
+Extra: https://jsparagatos.com/
