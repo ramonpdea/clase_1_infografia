@@ -1,7 +1,8 @@
 # clase_1_infografia
 
+Videos clase: https://drive.google.com/drive/folders/1Lpi7P_VJ6F0wBQKPny1I2p7UEHD8SwBw?usp=sharing
 
-HTML https://html.com/#What_is_HTML
+HTML: https://html.com/#What_is_HTML
 
 
 
